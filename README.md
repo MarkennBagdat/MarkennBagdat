@@ -3,8 +3,8 @@
 **Frontend Developer**  
 📧 [markenbagdat@gmail.com](mailto:markenbagdat@gmail.com)  
 🔗 [GitHub Profile](https://github.com/MarkennBagdat)  
-🔗 [LeetCode Profile](https://leetcode.com/markenbagdat) ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/4/49/LeetCode_logo_black.png)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/markenn-bagdat/) ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)
+🔗 [LeetCode Profile](https://leetcode.com/markenbagdat)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/markenn-bagdat/)
 
 ## About Me
 I am an experienced front-end developer with a Bachelor's degree in Cybersecurity, specializing in building secure and high-performance websites using React. I am passionate about continuously improving my analytical and algorithmic skills, and actively solving problems on LeetCode.
