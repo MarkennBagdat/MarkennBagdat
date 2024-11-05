@@ -1,16 +1,23 @@
-## Hi there 👋
+# Marken Bagdat
 
-<!--
-**MarkennBagdat/MarkennBagdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer**  
+📧 [markenbagdat@gmail.com](mailto:markenbagdat@gmail.com)  
+📞 +7 (708) 546-75-49  
+🔗 [GitHub Profile](https://github.com/MarkennBagdat)  
+🔗 [LeetCode Profile](https://leetcode.com/markenbagdat)  
 
-Here are some ideas to get you started:
+## About Me
+I am an experienced front-end developer with a Bachelor's degree in Cybersecurity, specializing in building secure and high-performance websites using React. I am passionate about continuously improving my analytical and algorithmic skills, and actively solving problems on LeetCode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+```javascript
+// Programming Languages
+const languages = ["JavaScript", "TypeScript", "Java", "Python", "Go", "C++"];
+
+// Web Technologies
+const webTechnologies = {
+  html: "HTML5",
+  css: "CSS3",
+  scss: "SCSS",
+  frameworks: ["React.js", "AntDesign", "Bootstrap", "Material-UI"]
+};
